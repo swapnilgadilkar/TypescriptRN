@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789591298351",
+    "project_id": "typescriptrn",
+    "storage_bucket": "typescriptrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789591298351:android:5f8c7dbe45ff3e0f13d1da",
+        "android_client_info": {
+          "package_name": "com.typescriptrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789591298351-h4pha154e5mkoski0qq1d7jg3omvr6gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPU5AtLFEEBD4Q1kdXkAgps3C0qLx5gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789591298351-h4pha154e5mkoski0qq1d7jg3omvr6gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
